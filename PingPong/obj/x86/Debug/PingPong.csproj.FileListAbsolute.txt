@@ -1,0 +1,16 @@
+c:\users\lalit\documents\visual studio 2010\Projects\PingPong\PingPong\bin\Debug\PingPong.exe
+c:\users\lalit\documents\visual studio 2010\Projects\PingPong\PingPong\bin\Debug\PingPong.pdb
+c:\users\lalit\documents\visual studio 2010\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.Form1.resources
+c:\users\lalit\documents\visual studio 2010\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.Properties.Resources.resources
+c:\users\lalit\documents\visual studio 2010\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.exe
+c:\users\lalit\documents\visual studio 2010\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.pdb
+C:\Users\Lalit\Documents\Visual Studio 2010\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.csprojResolveAssemblyReference.cache
+C:\Users\Lalit\Documents\Visual Studio 2010\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.csproj.GenerateResource.Cache
+C:\My Drive\Lalit\Personal\My_projects\Visual Studio Projects\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.exe
+C:\My Drive\Lalit\Personal\My_projects\Visual Studio Projects\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.pdb
+C:\My Drive\Lalit\Personal\My_projects\Visual Studio Projects\Projects\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\My Drive\Lalit\Personal\My_projects\Visual Studio Projects\Projects\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\My Drive\Lalit\Personal\My_projects\Visual Studio Projects\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.csprojResolveAssemblyReference.cache
+C:\My Drive\Lalit\Personal\My_projects\Visual Studio Projects\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.Form1.resources
+C:\My Drive\Lalit\Personal\My_projects\Visual Studio Projects\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.Properties.Resources.resources
+C:\My Drive\Lalit\Personal\My_projects\Visual Studio Projects\Projects\PingPong\PingPong\obj\x86\Debug\PingPong.csproj.GenerateResource.Cache
